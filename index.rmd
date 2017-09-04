@@ -15,9 +15,8 @@ In addition to a strong foundation in math and statistics, Paul has over 5 years
 Paul grew up in Denver, CO, and graduated from the University of Colorado at Boulder with degrees in Applied Math and Economics Magna cum laude in 2012. He lives with his wife and furry beagle in Jessup, MD, between Washington and Baltimore. He is an avid skier, hobbyist musician, and aspiring home-improvement DIYer.
 
 ## Portfolio 
-(under construction)
 
-While many of my professional projects are not publically available, below are some small projects that I've worked on, mostly for fun or to learn something new.
+Much of my professional work is not publically available, but here are some projects that I've worked on, mostly for fun or to learn something new.
 
 [Kaggle Point Calculator](https://paulfornia.shinyapps.io/Data_Products_Project_v2/)
 (R, Shiny)
