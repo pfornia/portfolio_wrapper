@@ -27,3 +27,6 @@ While many of my professional projects are not publically available, below are s
 
 [Calculator From Scratch](https://github.com/pfornia/Excel_Demo_Transistor_Calculator)
 (Excel) (my personal favorite)
+
+[Patio](./patio.JPG)
+(Herringbone brick, 255 sqft, Stone firepit w/ built-in grill)
