@@ -19,7 +19,13 @@ Paul grew up in Denver, CO, and graduated from the University of Colorado at Bou
 
 While many of my professional projects are not publically available, below are some small projects that I've worked on, mostly for fun or to learn something new.
 
-[2048 console game](https://github.com/pfornia/Python-Demo-2048)
+[Kaggle Point Calculator](https://paulfornia.shinyapps.io/Data_Products_Project_v2/)
+(R, Shiny)
+
+[Next Word Predictor](https://paulfornia.shinyapps.io/Capstone_v3/)
+(R, Shiny, NLP)
+
+[2048 Console Game](https://github.com/pfornia/Python-Demo-2048)
 (python)
 
 [Caesar Cipher Decrypter](https://github.com/pfornia/Java_Demo_Cipher)
