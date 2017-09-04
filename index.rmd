@@ -10,7 +10,7 @@ title: "Paul Fornia"
 
 Paul is an experienced analytics and data science consultant serving federal clients in the Washington, DC area. He specializes in bringing powerful statistical and machine learning theory into real situations quickly and practically, implementing easy-to-use tools that enable clients to get measurable value from their existing data.
 
-In addition to a strong foundation in math and statistics, Paul has many years of programming experience in a wide variety of languages, including C++, Java, Python, SAS, SQL, and especially R. He is also familiar with industry-standard tools used in the data science pipeline such as Linux, Git, AWS and Agile processes.
+In addition to a strong foundation in math and statistics, Paul has over 5 years of programming experience in a wide variety of languages, including C++, Java, Python, SAS, SQL, and especially R. He is also familiar with industry-standard tools used in the data science pipeline such as Linux, Git, AWS and Agile processes.
 
 Paul grew up in Denver, CO, and graduated from the University of Colorado at Boulder with degrees in Applied Math and Economics Magna cum laude in 2012. He lives with his wife and furry beagle in Jessup, MD, between Washington and Baltimore. He is an avid skier, hobbyist musician, and aspiring home-improvement DIYer.
 
