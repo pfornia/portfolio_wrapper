@@ -16,7 +16,7 @@ Paul grew up in Denver, CO, and graduated from the University of Colorado at Bou
 
 ## Portfolio 
 
-Much of my professional work is not publically available, but here are some projects that I've worked on, mostly for fun or to learn something new.
+Here are some non-professional projects that I've put together, mostly for fun or to learn something new.
 
 [Kaggle Point Calculator](https://paulfornia.shinyapps.io/Data_Products_Project_v2/)
 (R, Shiny)
@@ -34,4 +34,4 @@ Much of my professional work is not publically available, but here are some proj
 (Excel) (my personal favorite)
 
 [Patio](./patio.JPG)
-(Herringbone brick, 255 sqft, Stone firepit w/ built-in grill)
+(Herringbone brick, 225 sqft, Stone firepit w/ built-in grill)
