@@ -1,5 +1,8 @@
 ---
 title: "Paul Fornia"
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 [LinkedIn](https://www.linkedin.com/in/paulfornia/)
@@ -18,20 +21,14 @@ Paul grew up in Denver, CO, and graduated from the University of Colorado at Bou
 
 Here are some non-professional projects that I've put together, mostly for fun or to learn something new.
 
-[Kaggle Point Calculator](https://paulfornia.shinyapps.io/Data_Products_Project_v2/)
-(R, Shiny)
+[Kaggle Point Calculator](https://paulfornia.shinyapps.io/Data_Products_Project_v2/) ([github](https://github.com/pfornia/kaggle_points_calculator)): R, Shiny
 
-[Next Word Predictor](https://paulfornia.shinyapps.io/Capstone_v3/)
-(R, Shiny, NLP)
+[Next Word Predictor](https://paulfornia.shinyapps.io/Capstone_v3/) ([github](https://github.com/pfornia/next_word_predictor)): R, Shiny, NLP
 
-[2048 Console Game](https://github.com/pfornia/Python-Demo-2048)
-(python)
+[2048 Console Game](https://github.com/pfornia/Python-Demo-2048): Python
 
-[Caesar Cipher Decrypter](https://github.com/pfornia/Java_Demo_Cipher)
-(Java)
+[Caesar Cipher Decrypter](https://github.com/pfornia/Java_Demo_Cipher): Java
 
-[Calculator From Scratch](https://github.com/pfornia/Excel_Demo_Transistor_Calculator)
-(Excel) (my personal favorite)
+[Calculator From Scratch](https://github.com/pfornia/Excel_Demo_Transistor_Calculator): Excel (my personal favorite)
 
-[Patio](./patio.JPG)
-(Herringbone brick, 225 sqft, Stone firepit w/ built-in grill)
+[Patio](./patio.JPG): Herringbone brick, 225 sqft, Stone firepit w/ built-in grill
