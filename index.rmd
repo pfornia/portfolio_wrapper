@@ -21,6 +21,8 @@ Paul grew up in Denver, CO, and graduated from the University of Colorado at Bou
 
 Here are some non-professional projects that I've put together, mostly for fun or to learn something new.
 
+[Clue Multiplayer Game](https://www.youtube.com/edit?o=U&video_id=zvuOLRJWVi0) ([github](https://github.com/pfornia/battleware)): Python, GUI, OO
+
 [Kaggle Point Calculator](https://paulfornia.shinyapps.io/Data_Products_Project_v2/) ([github](https://github.com/pfornia/kaggle_points_calculator)): R, Shiny
 
 [Next Word Predictor](https://paulfornia.shinyapps.io/Capstone_v3/) ([github](https://github.com/pfornia/next_word_predictor)): R, Shiny, NLP
