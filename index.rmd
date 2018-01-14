@@ -33,4 +33,4 @@ Here are some non-professional projects that I've put together, mostly for fun o
 
 [Calculator From Scratch](https://github.com/pfornia/Excel_Demo_Transistor_Calculator): Excel
 
-[Patio](./patio.JPG): Herringbone brick, 225 sqft, Stone firepit w/ built-in grill
+[Patio](./patio.png): Herringbone brick, 225 sqft, Stone firepit w/ built-in grill
