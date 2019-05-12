@@ -32,7 +32,7 @@ Paul's work included management of the client relationship, day-to-day programmi
 #### Spark Developer | Large Dept of Treausury Agency
 
 Under a ~3-week timeline, Paul stood up a proof-of-concept Spark environment on a shared Deloitte server from scratch. 
-The tool automatically injected a large amount of publically available data from multiple sources, and ran a simple report against the data. 
+The tool automatically injested a large amount of publically available data from multiple sources, and ran a simple report against the data. 
 Paul also created a sample R Shiny dashboard to display findings. 
 
 #### Analytics Consultant | Large Dept of Homeland Security Agency
