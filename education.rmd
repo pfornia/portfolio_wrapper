@@ -1,0 +1,41 @@
+---
+title: "Education & Certifications"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+### In Progress: MS Computer Science
+
+* Johns Hopkins University
+* Whiting School of Engineering
+* Anticipated Aug 2020
+
+### BS Applied Mathematics
+
+* University of Colorado -- Boulder
+* College of Engineering and Applied Sciences
+* Graduated May 2012
+
+### BA Economics -- Magna Cum Laude
+
+* University of Colorado -- Boulder
+* College of Arts and Sciences
+* Graduated May 2012
+
+### AWS Certified Cloud Practitioner
+
+* [Description](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+* [Credential](https://www.certmetrics.com/amazon/electronic_certificate.aspx?cert=980ED3E2528110335327E7DC2A973498ODEFA9F8B18C16A30B5F374FEAAE06363)
+
+### Data Science Specialization
+
+* Coursera
+* Johns Hopkins University
+* [Description and Credential](https://www.coursera.org/account/accomplishments/specialization/KH5MS3AGYLHT)
+
+### Machine Learning Specialization
+
+* Coursera
+* University of Washington
+* [Description and Credential](https://www.coursera.org/account/accomplishments/specialization/QXC4X9QML6EW)

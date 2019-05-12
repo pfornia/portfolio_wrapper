@@ -1,0 +1,12 @@
+name: "portfolio"
+navbar:
+  title: "Paul Fornia"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Portfolio"
+      href: portfolio.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Education"
+      href: education.html

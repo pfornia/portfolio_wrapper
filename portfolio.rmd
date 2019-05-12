@@ -1,0 +1,51 @@
+---
+title: "Portfolio"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+Here are some non-professional projects that I've put together for fun, for a class, or just to learn something new.
+
+### Machine Learning and AI from scratch
+
+[Race Simulation with Reinforcement Learning](https://github.com/pfornia/RL_racetrack) ([video demo](https://youtu.be/WC_WIB321d4))
+
+[Deep Neural Network](https://github.com/pfornia/DNN_classifier) ([video demo](https://youtu.be/57xngxDQpLM))
+
+[Linear Classification](https://github.com/pfornia/linear_classifiers) ([video demo](https://youtu.be/ZldfwIE9GN8))
+
+
+### User Interfaces
+
+["Clue-less" Multiplayer Game](https://github.com/pfornia/battleware) ([video explainer](https://www.youtube.com/edit?o=U&video_id=zvuOLRJWVi0)): Python, GUI, OO
+
+[Kaggle Point Calculator](https://github.com/pfornia/kaggle_points_calculator) ([web app](https://paulfornia.shinyapps.io/Data_Products_Project_v2/)): R, Shiny
+
+[Next Word Predictor](https://github.com/pfornia/next_word_predictor) ([web app](https://paulfornia.shinyapps.io/Capstone_v3/)): R, Shiny, NLP
+
+
+### Other Projects
+
+[2048 Console Game](https://github.com/pfornia/Python-Demo-2048): Python
+
+[Caesar Cipher Decrypter](https://github.com/pfornia/Java_Demo_Cipher): Java
+
+[Calculator From Scratch](https://github.com/pfornia/Excel_Demo_Transistor_Calculator): Excel
+
+[Patio](./patio.png): Herringbone brick, 225 sqft, Stone firepit w/ built-in grill
+
+<!--
+Projects to Add:
+AdvML:
+  proj 7 reinf learning
+  proj 6 NN
+  proj 5 linear class
+  proj 3 knn
+  proj 2 kmeans + SFS 
+AI:
+  maybe mod7 forward planner ("go to store, buy drill, drive home")
+  maybe mod5 Genetic Algorithm 
+
+
+-->

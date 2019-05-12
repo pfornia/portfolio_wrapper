@@ -1,0 +1,87 @@
+---
+title: "Experience"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+Paul has over 7 years of professional experience in data science, machine learning, programming, and consulting. 
+
+## Deloitte Consulting | Data Scientist/Senior Consultant (Aug 2014 - Present)
+
+Paul is a Senior Consultant and Data Scientist in Deloitte Consulting's Analytics & Cognitive (A&C) Government and Public Sector (GPS) practice.
+He brings a strategic approach grounded in finding practical, measurable value rooted in statistical rigor.
+
+#### Data Scientist, Team Lead | Large Business Issue Recommender | Large Dept of Treausury Agency
+
+Paul leads a team (4 full-time Data Scientists plus 2 part-time senior advisors) that uses a recommendation engine approach to perform unsupervised anomaly detection.
+Paul stood up the project, turning a small code base into an end-to-end data pipeline, complete with a backtesting methodology to benchmark their hundreds of experiments. He acts as a programmer and data scientist, contributing code and interpretting relevant research. 
+But he is also a software engineer, managing the team's git repository, data environment, programming environment, and tasks to meet client requirements.
+
+The solution itself performs anomaly detection by injesting millions of forms with hundreds of sparsely populated fields, and by using an ensemble of several distributional models originally designed for recommender systems. 
+If fully implemented, the tool will impact tens of millions of dollars worth of revenue.
+
+#### Data Scientist, Workstream Lead | Workforce Optimization Tool | Large Dept of Treausury Agency
+
+Paul led a team of 3-4 full-time consultants in developing a workforce optimization solution. 
+The team inheritted a tool that was still in small-scale testing, and through an overhaul of the modeling techniques used and the addition of several user-facing features, brought the tool to its currect full-scale deployed version. 
+The solution is now helping guide workforce allocation responsible for several hundreds of millions in generated revenue, with an estimated boost in efficiency worth tens of millions.
+
+Paul's work included management of the client relationship, day-to-day programming, complex regression modeling, linear optimization, and development of a front-end web-based user interface in R Shiny.
+
+#### Spark Developer | Large Dept of Treausury Agency
+
+Under a ~3-week timeline, Paul stood up a proof-of-concept Spark environment on a shared Deloitte server from scratch. 
+The tool automatically injected a large amount of publically available data from multiple sources, and ran a simple report against the data. 
+Paul also created a sample R Shiny dashboard to display findings. 
+
+#### Analytics Consultant | Large Dept of Homeland Security Agency
+
+Paul was part of the core Analytics team supporting a large 40+ person contract that helped the agency prepare for and remediate findings from their annual financial audit process. 
+In one high-visibility project, Paul was the primary programmer for a tool that brought together 10+ data sources that had not previously been connected or reconciled. 
+Through dozens of highly complex SQL queries, Paul created a system of automatically flagging a variety of issues or potential issues.
+In addition to providing new controls, the tool informed a financial statement adjustment in the tens of millions. 
+
+Other projects included automation of tedious processes using R, SQL, and MS Excel VBA. 
+
+#### Training and Analytics Leadership
+
+Over the years, Paul has played several rolls internally at Deloitte around training new practitioners. He has directly taught hundreds of students, and his courses have reached even more. He has created and facilitated several courses from scratch, including:
+
+* 3-day R bootcamp
+* Introduction to SQL
+* Advanced SQL
+* Introduction to R Shiny
+
+He has also helped facilitate several others, including Introduction to Analytics (with Excel) and Introduction to Machine Learning (with R).
+
+Paul also played a role in advising curriculum development as Deloitte stood up its internal "Analytics University" for GPS practitioners.
+
+## Sr Research Assistant | Federal Reserve Board of Governors (Jun 2012 - Jul 2014)
+
+Paul implemented the ideas of Board economists, from data collection and cleaning, to running regressions and models, to producing charts and figures used in academic talks and in policy presentations to the governors and other officers. He also contributed to research direction and helped to determine model validity. Topics varied, but focused largely on how the Fed's policy actions affect the primary and secondary housing finance markets.
+
+## Faunalytics | Volunteer Researcher (2018 - Present)
+
+Paul created a pipeline using the Facebook API via python to automatically download, process, and export spreadsheets of comments from public announcements and articles related to vegan and other animal-cruelty related policies (e.g., FB reactions to a Fast-food chain switching to cage-free eggs).
+
+The data, which is currectly being used for a sentiment analysis project, would have been copy-and-pasted via web browser by a team of volunteers, likely taking many hours. 
+
+Paul created a fully-automated, daily downloader of Twitter search results on a wide variety of topics related to the humane treatment of animals. 
+The solution uses python, the Twitter API, linux tools to schedule and provide email alerts, and is hosted on AWS servers. 
+
+## Teaching Assistant and "Learning Assistant" | University of Colorado Applied Math Department (Aug 2009 - May 2012)
+
+As a TA, I lectured weekly workshops for 40 engineering students. I created a curriculum to follow the professor's primary lecture, wrote quizzes, and graded homework, quizzes and exams. As a learning assistant, I led or co-led after-hours help sessions and graded homeworks and exams. Courses included:
+
+* Calculus I
+* Linear Algebra
+* Applied Probability
+
+## Intern | Fast Enterprises (Jun 2011 - Aug 2011)
+
+Working with employees of both Fast Enterprises and the State of Montana Departments of Revenue and Justice, I helped implement Fast core software to fit the specific needs of the State of Montana. This included testing, debugging, helping state employees use our software, and coding in SQL and Visual Basic.
+
+## Researcher | Nanyang Technological University (Jun 2010 - Aug 2010)
+
+Located at Nanyang Technological University in Singapore. We analyzed the changing correlation relationships between different Japanese industries. Responsibilities included writing code to solve complex mathematics problems, improving the efficiency of existing code, and automating several processes to make the project more user-friendly. My work resulted in a co-authored publication.
