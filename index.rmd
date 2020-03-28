@@ -7,14 +7,14 @@ output:
 
 [LinkedIn](https://www.linkedin.com/in/paulfornia/) |
 [Email](mailto:paulfornia@gmail.com) |
-[Resume](./Resume_Fornia_2017_08_30.pdf) |
+[Resume](./Resume_Fornia_2019_05_11.pdf) |
 [Github](https://github.com/pfornia)
 
-Paul is an Data Scientist and Consultant serving federal clients in the Washington, DC area. He specializes in deploying powerful statistics and machine learning theory into real situations quickly and practically, implementing easy-to-use tools that enable clients to get measurable value from their existing data.
+Paul is an experienced Data Scientist and Consultant serving federal clients in the Washington, DC area. He specializes in deploying powerful statistics and machine learning theory into real situations quickly and practically, developing easy-to-use tools that enable clients to get measurable value from their existing data.
 
 In addition to a strong foundation in math and statistics, Paul has over 7 years of programming experience in a wide variety of languages, including C++, Java, SAS, SQL, and especially R and Python. He is also comfortable with industry-standard tools used in the data science pipeline including Linux, Git, AWS and Agile processes.
 
-Paul currently works for Deloitte Consulting and is working on his Masters in Computer Science through the Johns Hopkins Whiting School of Engineering.
+Paul currently works for Deloitte Consulting and is completing his Masters in Computer Science through the Johns Hopkins Whiting School of Engineering.
 
-Paul grew up in Denver, CO, and graduated from the University of Colorado at Boulder with degrees in Applied Math and Economics Magna cum laude in 2012. He lives with his wife and furry beagle in Jessup, MD, between Washington and Baltimore. He is an avid skier, hobbyist musician, and aspiring home-improvement DIYer.
+Paul grew up in Denver, CO, and graduated from the University of Colorado at Boulder with degrees in Applied Math and Economics Magna cum laude in 2012. He lives with his wife and pet beagle in Jessup, MD, between Washington and Baltimore. He is an avid skier, hobbyist musician, and aspiring home-improvement DIYer.
 

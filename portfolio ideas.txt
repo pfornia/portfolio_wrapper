@@ -1,0 +1,67 @@
+# RESEARCH TOPIC IDEAS
+
+## "Highly Teachable AI"
+	The biggest problem with ML right now are the barrier and skill needed for training *and/or* the skill and resources needed to prepare the dataset.
+
+	**Existing research on deep learning with fewer observations.
+
+	This might be the intersection of human-focused design and reinforcement learning.
+
+	Inspiration: Consider learning chess:
+		Nobody learns just by any of the following methods:
+			* running simulations
+			* learning rules
+			* planning ahead
+			* memorizing big data.
+		Good players ALWAYS have some a combination of all of the above:
+			* practice (simulations)
+			* rules (strategies taught by experts)
+			* planning (look 5 moves ahead)
+			* memorizing openings/learning from gathering data from existing 				games
+	
+	Similarly in data science (just like a human), a good Analytics AI will:
+		Provide some analytics
+		Get an objective function
+		Be told why it's wrong
+		Adjust objective
+		Collect different data
+		etc.
+		* Learn from others ("Always cross validate")
+		* ??
+			
+
+# Data Science
+
+## MNIST CNN in excel? D3? (with interactive click-draw digits)
+
+
+
+# Coding
+
+## minimax chess
+* chess solver with minimax (w/ alpha beta) and heuristic of piece points
+* Could the UI be done in D3?
+* Is there some sort of database? Some big data solution here?
+
+## heuristic, minimax Tic-tac-toe (suboptimal) (see AI class, mod 2 self-check problem set.)
+
+
+## Logic
+### Sudoku based on logic AI stuff (mod 6)
+### Can the wupus rules be learned by reenforcement? 
+
+### convert tax code into logical knowledge base
+
+
+
+# Open source
+
+* Jupyter needs a find function! (has a find and replace, but needs some work)
+
+
+# Terms to learn
+
+Lagrange
+Eigen stuff
+Chi squared
+Markov stuff
