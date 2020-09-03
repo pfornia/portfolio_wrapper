@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -83,7 +83,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -232,6 +231,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -243,18 +243,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -287,13 +275,13 @@ $(document).ready(function () {
   <a href="index.html">About</a>
 </li>
 <li>
-  <a href="portfolio.html">Portfolio</a>
-</li>
-<li>
   <a href="experience.html">Experience</a>
 </li>
 <li>
   <a href="education.html">Education</a>
+</li>
+<li>
+  <a href="portfolio.html">Portfolio</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -312,11 +300,14 @@ $(document).ready(function () {
 </div>
 
 
-<p><a href="https://www.linkedin.com/in/paulfornia/">LinkedIn</a> | <a href="mailto:paulfornia@gmail.com">Email</a> | <a href="./Resume_Fornia_2019_05_11.pdf">Resume</a> | <a href="https://github.com/pfornia">Github</a></p>
-<p>Paul is a Data Scientist and Consultant serving federal clients in the Washington, DC area. He specializes in deploying powerful statistics and machine learning theory into real situations quickly and practically, implementing easy-to-use tools that enable clients to get measurable value from their existing data.</p>
-<p>In addition to a strong foundation in math and statistics, Paul has over 7 years of programming experience in a wide variety of languages, including C++, Java, SAS, SQL, and especially R and Python. He is also comfortable with industry-standard tools used in the data science pipeline including Linux, Git, AWS and Agile processes.</p>
-<p>Paul currently works for Deloitte Consulting and is completing his Masters in Computer Science through the Johns Hopkins Whiting School of Engineering.</p>
-<p>Paul grew up in Denver, CO, and graduated from the University of Colorado at Boulder with degrees in Applied Math and Economics Magna cum laude in 2012. He lives with his wife and pet beagle in Jessup, MD, between Washington and Baltimore. He is an avid skier, hobbyist musician, and aspiring home-improvement DIYer.</p>
+<p><a href="https://www.linkedin.com/in/paulfornia/">LinkedIn</a> | <a href="mailto:paulfornia@gmail.com">Email</a> | <a href="./Resume_Fornia_2020_09_02.pdf">Resume</a> | <a href="https://github.com/pfornia">Github</a></p>
+<p><img src="headshot.jpeg" /></p>
+
+<p>Paul is an experienced data scientist, programmer, consultant, and team leader. He specializes in bringing powerful machine learning models into real situations quickly and practically, with a focus on value and impact. He has served many industries, including finance, government, non-profit, and healthcare.</p>
+<p>In addition to a strong foundation in math and statistics, Paul has 8 years of programming experience in many languages (including expertise in Python and SQL), and other DS tools such as Linux, Git, AWS and Agile processes.</p>
+<p>Paul is experienced in leading small teams and training and mentoring junior data scientists.</p>
+<p>Paul is currently the Director of Data Science at TPC Energy Fund, where he applies ML to generate highly accurate forecasts of portfolio returns and volatility. He used fundamental concepts from data science to realistically measure fund performance by protecting from common pitfalls such as overfitting to historical data. The fund has consistently produced outsized ROI with minimal downside risk.</p>
+<p>Paul grew up in Denver, CO, and graduated from the University of Colorado at Boulder with degrees in Applied Math and Economics Magna cum laude in 2012. He holds a Masters degree in Computer Science from Johns Hopkins University. He lives with his wife and pet beagle in Jessup, MD, between Washington and Baltimore. He is an avid skier, hobbyist musician, and aspiring home-improvement DIYer.</p>
 
 
 
@@ -335,6 +326,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

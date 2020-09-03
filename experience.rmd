@@ -5,21 +5,35 @@ output:
   pdf_document: default
 ---
 
-Paul has over 7 years of professional experience in data science, machine learning, programming, and consulting. 
+Paul has over 8 years of professional experience in data science, machine learning, programming, and consulting. 
 
-## Deloitte Consulting | Data Scientist/Senior Consultant (Aug 2014 - Present)
+## TPC Energy Fund | Director of Data Science (May 2020 - Present)
 
-Paul is a Senior Consultant and Data Scientist in Deloitte Consulting's Analytics & Cognitive (A&C) Government and Public Sector (GPS) practice.
-He brings a strategic approach grounded in finding practical, measurable value rooted in statistical rigor.
+Paul currently serves as the Director of Data Science for TPC Energy Fund, a small trader participating in the wholesale power market. He uses techniques from Machine Learning to produce highly accurate forcasts of risk and return, and ultimately find new opportunities for reliable ROI. He brings his years of data science experience to help the organization avoid common pitfalls in forecasting, such as "overfitting" to historical data.
+
+Paul also brings his math, stats, and programming expertise to help customize algorithms to fit the nuances of the power market which cannot be easily solved by out-of-the box, or open source solutions alone. 
+
+## DataRobot | Customer Facing Data Scientist (Aug 2019 - Apr 2020)
+
+Paul was a Customer Facing Data Scientist (CFDS), focusing primarily on the [AI for Good](https://blog.datarobot.com/ai-for-good-with-datarobot-saving-the-world-one-use-case-at-a-time) program, providing pro bono software and execution services to organizations with a strong social impact.
+
+As one of the first full-time members of the AI for Good team, Paul was instrumental in shaping the program in its early days, including contributing to strategic direction, and vetting dozens of applications for the first cohort of beneficiaries. He also helped represent the program internally to new hires, and externally in [media](https://wamu.org/story/20/02/24/how-clean-is-the-anacostia-river-ask-a-robot/) [interviews](https://www.wateronline.com/doc/artificial-intelligence-predicts-and-saves-your-water-future-0001).
+
+He served as primary CFDS for several high-profile, non-profit partners, including [Kiva](https://www.kiva.org/), [DonorsChoose](https://www.donorschoose.org/), and [Anacostia Riverkeeper](https://www.anacostiariverkeeper.org/), as well as for some traditional paying customers. 
+
+## Deloitte Consulting | Data Scientist/Senior Consultant (Aug 2014 - Aug 2019)
+
+Paul was a Senior Consultant and Data Scientist in Deloitte Consulting's Analytics & Cognitive (A&C) Government and Public Sector (GPS) practice.
+He brought a strategic approach grounded in finding practical, measurable value rooted in statistical rigor.
 
 #### Data Scientist, Team Lead | Large Business Issue Recommender | Large Dept of Treausury Agency
 
-Paul leads a team (4 full-time Data Scientists plus 2 part-time senior advisors) that uses a recommendation engine approach to perform unsupervised anomaly detection.
-Paul stood up the project, turning a small code base into an end-to-end data pipeline, complete with a backtesting methodology to benchmark their hundreds of experiments. He acts as a programmer and data scientist, contributing code and interpretting relevant research. 
-But he is also a software engineer, managing the team's git repository, data environment, programming environment, and tasks to meet client requirements.
+Paul led a team (4 full-time Data Scientists plus 2 part-time senior advisors) that used a recommendation engine approach to perform unsupervised anomaly detection.
+Paul stood up the project, turning a small code base into an end-to-end data pipeline, complete with a backtesting methodology to benchmark their hundreds of experiments. He acted as a programmer and data scientist, contributing code and interpretting relevant research. 
+He also acted as a software engineer, managing the team's git repository, data environment, programming environment, and tasks to meet client requirements.
 
 The solution itself performs anomaly detection by injesting millions of forms with hundreds of sparsely populated fields, and by using an ensemble of several distributional models originally designed for recommender systems. 
-If fully implemented, the tool will impact tens of millions of dollars worth of revenue.
+When fully implemented, the tool will impact tens of millions of dollars worth of revenue.
 
 #### Data Scientist, Workstream Lead | Workforce Optimization Tool | Large Dept of Treausury Agency
 
@@ -39,14 +53,14 @@ Paul also created a sample R Shiny dashboard to display findings.
 
 Paul was part of the core Analytics team supporting a large 40+ person contract that helped the agency prepare for and remediate findings from their annual financial audit process. 
 In one high-visibility project, Paul was the primary programmer for a tool that brought together 10+ data sources that had not previously been connected or reconciled. 
-Through dozens of highly complex SQL queries, Paul created a system of automatically flagging a variety of issues or potential issues.
+Through dozens of highly complex SQL queries, Paul created a system to automatically flag a variety of issues or potential issues.
 In addition to providing new controls, the tool informed a financial statement adjustment in the tens of millions. 
 
 Other projects included automation of tedious processes using R, SQL, and MS Excel VBA. 
 
 #### Training and Analytics Leadership
 
-Over the years, Paul has played several rolls internally at Deloitte around training new practitioners. He has directly taught hundreds of students, and his courses have reached even more. He has created and facilitated several courses from scratch, including:
+Over the years, Paul played several rolls internally at Deloitte around training new practitioners. He has directly taught hundreds of students internally, dozen externally (to paying clients), and his courses have reached even more. He has created and facilitated several courses from scratch, including:
 
 * 3-day R bootcamp
 * Introduction to SQL

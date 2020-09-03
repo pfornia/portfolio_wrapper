@@ -4,9 +4,9 @@ navbar:
   left:
     - text: "About"
       href: index.html
-    - text: "Portfolio"
-      href: portfolio.html
     - text: "Experience"
       href: experience.html
     - text: "Education"
       href: education.html
+    - text: "Portfolio"
+      href: portfolio.html
