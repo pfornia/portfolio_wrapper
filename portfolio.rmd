@@ -7,6 +7,10 @@ output:
 
 Here are some non-professional projects that I've put together for fun, for a class, or just to learn something new.
 
+### Research Projects
+
+[Machine Learnable Image Compression via "Alternating Transfer Learning"](https://github.com/pfornia/ml-compression) ([accompanying paper](https://github.com/pfornia/ml-compression/blob/master/paper/alternating_transfer_learning_FORNIA.pdf)). This is probably my favorite project in my portfolio, which explores using transfer learning to construct a deep learning architecture which can compress an image such that ML classification can be performed on the compressed image file, without the need to first decompress. Start with the paper - the code and github documentation is a work in progress. Topics: Python, Pytorch, Deep Learning, Transfer Learning, CNNs, Autoencoders.
+
 ### Machine Learning and AI from scratch
 
 [Race Simulation with Reinforcement Learning](https://github.com/pfornia/RL_racetrack) ([video demo](https://youtu.be/WC_WIB321d4))
