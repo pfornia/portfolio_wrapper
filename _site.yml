@@ -1,6 +1,6 @@
 name: "portfolio"
 navbar:
-  title: "Paul Fornia"
+  title: "PaulFornia.com"
   left:
     - text: "About"
       href: index.html

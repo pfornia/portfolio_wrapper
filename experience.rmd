@@ -5,97 +5,89 @@ output:
   pdf_document: default
 ---
 
-Paul has over 8 years of professional experience in data science, machine learning, programming, and consulting. 
+## Meta (Facebook) | Software Engineer - ML (Sep 2021 - Present)
 
-## TPC Energy Fund | Director of Data Science (May 2020 - Present)
+* Owner of large feature (100M+ daily impressions) that supports
+the FB group ecosystem by providing personalized
+recommendations of lesser-known groups
+* The feature increases the number of FB Groups with sustainable
+levels of engagement by hundreds of thousands (my contributions
+in 2022H1 increased this effect by 5%)
+* Increased click rate by 10%
+* Decreased latency by tens of milliseconds
 
-Paul currently serves as the Director of Data Science for TPC Energy Fund, a small trader participating in the wholesale power market. He uses techniques from Machine Learning to produce highly accurate forcasts of risk and return, and ultimately find new opportunities for reliable ROI. He brings his years of data science experience to help the organization avoid common pitfalls in forecasting, such as "overfitting" to historical data.
+## FINRA | Data Scientist (Oct 2020 - Sep 2021)
 
-Paul also brings his math, stats, and programming expertise to help customize algorithms to fit the nuances of the power market which cannot be easily solved by out-of-the box, or open source solutions alone. 
+* Developed and tested novel Deep Learning market surveillance
+models using Tensorflow/Keras
+* Extracted useful, model-ready datasets using PySpark
+* Queried from petabytes of data – approximately 100B records per day
+* Focused on deployment, preparing pipeline for highly scaled production environment
+* Built beautiful, interactive visualizations to display model output for business users
+
+## TPC Energy Fund | Director of Data Science (May 2020 - Oct 2020)
+
+* Provided highly accurate forecasts of returns and volatility of the wholesale power market using
+machine learning
+* Optimized portfolios across thousands of trades using industry best-practices
+* Implemented robust backtesting systems to measure performance and risk
+* Customized industry standard solutions to fit nuanced financial situations
 
 ## DataRobot | Customer Facing Data Scientist (Aug 2019 - Apr 2020)
 
-Paul was a Customer Facing Data Scientist (CFDS), focusing primarily on the [AI for Good](https://blog.datarobot.com/ai-for-good-with-datarobot-saving-the-world-one-use-case-at-a-time) program, providing pro bono software and execution services to organizations with a strong social impact.
-
-As one of the first full-time members of the AI for Good team, Paul was instrumental in shaping the program in its early days, including contributing to strategic direction, and vetting dozens of applications for the first cohort of beneficiaries. He also helped represent the program internally to new hires, and externally in [media](https://wamu.org/story/20/02/24/how-clean-is-the-anacostia-river-ask-a-robot/) [interviews](https://www.wateronline.com/doc/artificial-intelligence-predicts-and-saves-your-water-future-0001).
-
-He served as primary CFDS for several high-profile, non-profit partners, including [Kiva](https://www.kiva.org/), [DonorsChoose](https://www.donorschoose.org/), and [Anacostia Riverkeeper](https://www.anacostiariverkeeper.org/), as well as for some traditional paying customers. 
+* As one of the first full-time members of the [AI for Good](https://blog.datarobot.com/ai-for-good-with-datarobot-saving-the-world-one-use-case-at-a-time) team, Paul was instrumental in shaping the program
+* Contributed to strategic direction, and vetted dozens of applications for the first cohort of beneficiaries. 
+* Represented the program internally to new hires, and externally in [media](https://wamu.org/story/20/02/24/how-clean-is-the-anacostia-river-ask-a-robot/) [interviews](https://www.wateronline.com/doc/artificial-intelligence-predicts-and-saves-your-water-future-0001).
+* Served as primary CFDS for several high-profile, non-profit partners, including [Kiva](https://www.kiva.org/), [DonorsChoose](https://www.donorschoose.org/), and [Anacostia Riverkeeper](https://www.anacostiariverkeeper.org/), as well as for some traditional paying customers. 
 
 ## Deloitte Consulting | Data Scientist/Senior Consultant (Aug 2014 - Aug 2019)
 
-Paul was a Senior Consultant and Data Scientist in Deloitte Consulting's Analytics & Cognitive (A&C) Government and Public Sector (GPS) practice.
-He brought a strategic approach grounded in finding practical, measurable value rooted in statistical rigor.
+* Paul of Deloitte Consulting's Strategy and Analytics Government and Public Sector (GPS) practice.
 
 #### Data Scientist, Team Lead | Large Business Issue Recommender | Large Dept of Treausury Agency
 
-Paul led a team (4 full-time Data Scientists plus 2 part-time senior advisors) that used a recommendation engine approach to perform unsupervised anomaly detection.
-Paul stood up the project, turning a small code base into an end-to-end data pipeline, complete with a backtesting methodology to benchmark their hundreds of experiments. He acted as a programmer and data scientist, contributing code and interpretting relevant research. 
-He also acted as a software engineer, managing the team's git repository, data environment, programming environment, and tasks to meet client requirements.
-
-The solution itself performs anomaly detection by injesting millions of forms with hundreds of sparsely populated fields, and by using an ensemble of several distributional models originally designed for recommender systems. 
-When fully implemented, the tool will impact tens of millions of dollars worth of revenue.
+* Led a team (4 full-time Data Scientists plus 2 part-time senior advisors) that used a recommendation engine approach to perform unsupervised anomaly detection for a large Dept of Treasury Agency
+* Paul stood up the project, turning a small code base into an end-to-end data pipeline, complete with a backtesting methodology to benchmark their hundreds of experiments. 
 
 #### Data Scientist, Workstream Lead | Workforce Optimization Tool | Large Dept of Treausury Agency
 
-Paul led a team of 3-4 full-time consultants in developing a workforce optimization solution. 
-The team inheritted a tool that was still in small-scale testing, and through an overhaul of the modeling techniques used and the addition of several user-facing features, brought the tool to its currect full-scale deployed version. 
-The solution is now helping guide workforce allocation responsible for several hundreds of millions in generated revenue, with an estimated boost in efficiency worth tens of millions.
-
-Paul's work included management of the client relationship, day-to-day programming, complex regression modeling, linear optimization, and development of a front-end web-based user interface in R Shiny.
-
-#### Spark Developer | Large Dept of Treausury Agency
-
-Under a ~3-week timeline, Paul stood up a proof-of-concept Spark environment on a shared Deloitte server from scratch. 
-The tool automatically injested a large amount of publically available data from multiple sources, and ran a simple report against the data. 
-Paul also created a sample R Shiny dashboard to display findings. 
+* Led a team of 3-4 full-time consultants in overhauling and improving a tool to guide workforce allocation responsible for several hundreds of millions in generated revenue
+* The tool provided a boost in efficiency worth an estimated tens of millions.
+* A user-friendly interface gave business users access to a complex model with ML and optimization components.
+* Paul's work included management of the client relationship, coding, regression modeling, linear optimization, and development of a front-end web-based user interface in R Shiny.
 
 #### Analytics Consultant | Large Dept of Homeland Security Agency
 
-Paul was part of the core Analytics team supporting a large 40+ person contract that helped the agency prepare for and remediate findings from their annual financial audit process. 
-In one high-visibility project, Paul was the primary programmer for a tool that brought together 10+ data sources that had not previously been connected or reconciled. 
-Through dozens of highly complex SQL queries, Paul created a system to automatically flag a variety of issues or potential issues.
-In addition to providing new controls, the tool informed a financial statement adjustment in the tens of millions. 
-
-Other projects included automation of tedious processes using R, SQL, and MS Excel VBA. 
+* Part of the core Analytics team supporting a large 40+ person contract that helped the agency prepare for and remediate findings from their annual 
+* Created a tool that brought together 10+ data sources that had not previously been connected or reconciled.
+* Through dozens of highly complex SQL queries, created a system to automatically flag a variety of issues or potential issues, informing a financial statement adjustment in the tens of millions of dollars. 
 
 #### Training and Analytics Leadership
 
-Over the years, Paul played several rolls internally at Deloitte around training new practitioners. He has directly taught hundreds of students internally, dozen externally (to paying clients), and his courses have reached even more. He has created and facilitated several courses from scratch, including:
-
-* 3-day R bootcamp
-* Introduction to SQL
-* Advanced SQL
-* Introduction to R Shiny
-
-He has also helped facilitate several others, including Introduction to Analytics (with Excel) and Introduction to Machine Learning (with R).
-
-Paul also played a role in advising curriculum development as Deloitte stood up its internal "Analytics University" for GPS practitioners.
+* Over the years, Paul played several rolls internally at Deloitte around training new practitioners. 
+* Directly taught hundreds of students internally, dozen externally (to paying clients), and his courses have reached even more. He created several courses in R and SQL, and helped facilitate several others
+* Advised curriculum development as Deloitte stood up its internal "Analytics University" for GPS practitioners.
 
 ## Sr Research Assistant | Federal Reserve Board of Governors (Jun 2012 - Jul 2014)
 
-Paul implemented the ideas of Board economists, from data collection and cleaning, to running regressions and models, to producing charts and figures used in academic talks and in policy presentations to the governors and other officers. He also contributed to research direction and helped to determine model validity. Topics varied, but focused largely on how the Fed's policy actions affect the primary and secondary housing finance markets.
+* Implemented the ideas of Board economists, from data collection and cleaning, to running regressions and models, to producing charts and figures used in academic talks and in policy presentations to the governors and other officers.
+* Contributed to research direction and helped to determine model validity.
+* Topics varied, but focused largely on how the Fed's policy actions affect the primary and secondary housing finance markets.
 
-## Faunalytics | Volunteer Researcher (2018 - Present)
-
-Paul created a pipeline using the Facebook API via python to automatically download, process, and export spreadsheets of comments from public announcements and articles related to vegan and other animal-cruelty related policies (e.g., FB reactions to a Fast-food chain switching to cage-free eggs).
-
-The data, which is currectly being used for a sentiment analysis project, would have been copy-and-pasted via web browser by a team of volunteers, likely taking many hours. 
-
-Paul created a fully-automated, daily downloader of Twitter search results on a wide variety of topics related to the humane treatment of animals. 
-The solution uses python, the Twitter API, linux tools to schedule and provide email alerts, and is hosted on AWS servers. 
 
 ## Teaching Assistant and "Learning Assistant" | University of Colorado Applied Math Department (Aug 2009 - May 2012)
 
-As a TA, I lectured weekly workshops for 40 engineering students. I created a curriculum to follow the professor's primary lecture, wrote quizzes, and graded homework, quizzes and exams. As a learning assistant, I led or co-led after-hours help sessions and graded homeworks and exams. Courses included:
-
-* Calculus I
-* Linear Algebra
-* Applied Probability
+* Lectured weekly workshops for 40 engineering students. 
+* Created a curriculum to follow the professor's primary lecture, wrote quizzes, and graded homework, quizzes and exams. 
+* Courses included: Calculus I, Linear Algebra, and Applied Probability
 
 ## Intern | Fast Enterprises (Jun 2011 - Aug 2011)
 
-Working with employees of both Fast Enterprises and the State of Montana Departments of Revenue and Justice, I helped implement Fast core software to fit the specific needs of the State of Montana. This included testing, debugging, helping state employees use our software, and coding in SQL and Visual Basic.
+* Helped implement Fast core software to fit the specific needs of the State of Montana. 
+* This included testing, debugging, helping state employees use our software, and coding in SQL and Visual Basic.
 
-## Researcher | Nanyang Technological University (Jun 2010 - Aug 2010)
+## Research Intern | Nanyang Technological University (Jun 2010 - Aug 2010)
 
-Located at Nanyang Technological University in Singapore. We analyzed the changing correlation relationships between different Japanese industries. Responsibilities included writing code to solve complex mathematics problems, improving the efficiency of existing code, and automating several processes to make the project more user-friendly. My work resulted in a co-authored publication.
+* Analyzed the changing correlation relationships between different Japanese industries. 
+* Responsibilities included writing code to solve complex mathematics problems, improving the efficiency of existing code, and automating several processes to make the project more user-friendly. 
+* Resulted in a [co-authored publication](https://www.researchgate.net/publication/227654907_The_Japanese_Economy_in_Crises_A_Time_Series_Segmentation_Study).

@@ -1,5 +1,5 @@
 ---
-title: "Paul Fornia"
+title: "About Paul"
 output:
   html_document: default
   pdf_document: default
@@ -11,24 +11,19 @@ header-includes:
   - \usepackage{blindtext}
 ---
 
+![](dogs_headshot.png)
+
+|        *Pictured: A lazy couch potato; a persistent, motivate, and dedicated worker; Paul*
+
+<br/><br/>
+
+Paul Fornia is an experienced software engineer, consultant, and team leader specializing in applied machine learning. He has worked in many industries, including tech, finance, government, non-profit, and healthcare. He is currently at Meta working on machine learning systems for the Facebook app.
+
+In addition to a strong foundation in math and statistics, Paul has over a decade of programming experience in many languages (including expertise in Python and SQL).
+
+Paul graduated from the University of Colorado at Boulder with degrees in Applied Math and Economics Magna cum laude. He also holds a Masters degree in Computer Science from Johns Hopkins University. He lives with his wife and two dogs near Seattle, WA.
+
 [LinkedIn](https://www.linkedin.com/in/paulfornia/) |
 [Email](mailto:paulfornia@gmail.com) |
-[Resume](./Resume_Fornia_2020_09_02.pdf) |
+[Resume](./Resume_Fornia_2022_07_15.pdf) |
 [Github](https://github.com/pfornia)
-
-![](headshot.jpeg)
-
-\begin{wrapfig}[12]{l}[2pt]{5cm}
-\includegraphics[width=0.25\textwidth]{headshot.jpeg}
-\end{wrapfig}
-
-Paul is an experienced data scientist, programmer, consultant, and team leader. He specializes in bringing powerful machine learning models into real situations quickly and practically, with a focus on value and impact. He has served many industries, including finance, government, non-profit, and healthcare.
-
-In addition to a strong foundation in math and statistics, Paul has 8 years of programming experience in many languages (including expertise in Python and SQL), and other DS tools such as Linux, Git, AWS and Agile processes. 
-
-Paul is experienced in leading small teams and training and mentoring junior data scientists.
-
-Paul is currently the Director of Data Science at TPC Energy Fund, where he applies ML to generate highly accurate forecasts of portfolio returns and volatility. He used fundamental concepts from data science to realistically measure fund performance by protecting from common pitfalls such as overfitting to historical data. The fund has consistently produced outsized ROI with minimal downside risk.
-
-Paul grew up in Denver, CO, and graduated from the University of Colorado at Boulder with degrees in Applied Math and Economics Magna cum laude in 2012. He holds a Masters degree in Computer Science from Johns Hopkins University. He lives with his wife and pet beagle in Jessup, MD, between Washington and Baltimore. He is an avid skier, hobbyist musician, and aspiring home-improvement DIYer.
-

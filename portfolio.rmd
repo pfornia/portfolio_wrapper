@@ -1,43 +1,53 @@
 ---
-title: "Portfolio"
+title: "Project Portfolio"
 output:
   html_document: default
   pdf_document: default
 ---
 
-Here are some non-professional projects that I've put together for fun, for a class, or just to learn something new.
+## Research Projects
 
-### Research Projects
+* [Machine Learnable Image Compression via "Alternating Transfer Learning"](https://github.com/pfornia/ml-compression) ([accompanying paper](https://github.com/pfornia/ml-compression/blob/master/paper/alternating_transfer_learning_FORNIA.pdf)). 
+  * Written for Adv ML course as part of my Masters
+  * Use transfer learning to construct a deep learning architecture which can compress an image such that ML classification can be performed directly on the compressed image file.
+  * Start with the paper - the code and github documentation is a work in progress. 
+  * Topics: Python, Pytorch, Deep Learning, Transfer Learning, CNNs, Autoencoders.
 
-[Machine Learnable Image Compression via "Alternating Transfer Learning"](https://github.com/pfornia/ml-compression) ([accompanying paper](https://github.com/pfornia/ml-compression/blob/master/paper/alternating_transfer_learning_FORNIA.pdf)). This is probably my favorite project in my portfolio, which explores using transfer learning to construct a deep learning architecture which can compress an image such that ML classification can be performed on the compressed image file, without the need to first decompress. Start with the paper - the code and github documentation is a work in progress. Topics: Python, Pytorch, Deep Learning, Transfer Learning, CNNs, Autoencoders.
+## Kaggle 
 
-### Machine Learning and AI from scratch
+* [Profile](https://www.kaggle.com/paulfornia): Top rank overall: 759th globally (of ~180k members)
 
-[Race Simulation with Reinforcement Learning](https://github.com/pfornia/RL_racetrack) ([video demo](https://youtu.be/WC_WIB321d4))
+* [Jane Street Market Prediction ML Competition](https://www.kaggle.com/competitions/jane-street-market-prediction): Silver Medal – top 1% (2021)
 
-[Deep Neural Network](https://github.com/pfornia/DNN_classifier) ([video demo](https://youtu.be/57xngxDQpLM))
+* [Microsoft Indoor Navigation ML Competition](https://www.kaggle.com/competitions/indoor-location-navigation): Silver Medal – top 3% (2021)
 
-[Linear Classification](https://github.com/pfornia/linear_classifiers) ([video demo](https://youtu.be/ZldfwIE9GN8))
+## Machine Learning and AI from scratch
 
+* [Race Simulation with Reinforcement Learning](https://github.com/pfornia/RL_racetrack) ([video demo](https://youtu.be/WC_WIB321d4))
 
-### User Interfaces
+* [Deep Neural Network](https://github.com/pfornia/DNN_classifier) ([video demo](https://youtu.be/57xngxDQpLM))
 
-["Clue-less" Multiplayer Game](https://github.com/pfornia/battleware) ([video explainer](https://www.youtube.com/edit?o=U&video_id=zvuOLRJWVi0)): Python, GUI, OO
-
-[Kaggle Point Calculator](https://github.com/pfornia/kaggle_points_calculator) ([web app](https://paulfornia.shinyapps.io/Data_Products_Project_v2/)): R, Shiny
-
-[Next Word Predictor](https://github.com/pfornia/next_word_predictor) ([web app](https://paulfornia.shinyapps.io/Capstone_v3/)): R, Shiny, NLP
+* [Linear Classification](https://github.com/pfornia/linear_classifiers) ([video demo](https://youtu.be/ZldfwIE9GN8))
 
 
-### Other Projects
+## UI
 
-[2048 Console Game](https://github.com/pfornia/Python-Demo-2048): Python
+* ["Clue-less" Multiplayer Game](https://github.com/pfornia/battleware) ([video explainer](https://www.youtube.com/edit?o=U&video_id=zvuOLRJWVi0)): Python, GUI, OO
 
-[Caesar Cipher Decrypter](https://github.com/pfornia/Java_Demo_Cipher): Java
+* [Kaggle Point Calculator](https://github.com/pfornia/kaggle_points_calculator) ([web app](https://paulfornia.shinyapps.io/Data_Products_Project_v2/)): R, Shiny
 
-[Calculator From Scratch](https://github.com/pfornia/Excel_Demo_Transistor_Calculator): Excel
+* [Next Word Predictor](https://github.com/pfornia/next_word_predictor) ([web app](https://paulfornia.shinyapps.io/Capstone_v3/)): R, Shiny, NLP
 
-[Patio](./patio.png): Herringbone brick, 225 sqft, Stone firepit w/ built-in grill
+
+## Other Projects
+
+* [2048 Console Game](https://github.com/pfornia/Python-Demo-2048): Python
+
+* [Caesar Cipher Decrypter](https://github.com/pfornia/Java_Demo_Cipher): Java
+
+* [Calculator From Scratch](https://github.com/pfornia/Excel_Demo_Transistor_Calculator): Excel
+
+* [Patio](./patio.png): Herringbone brick, 225 sqft, Stone firepit w/ built-in grill
 
 <!--
 Projects to Add:

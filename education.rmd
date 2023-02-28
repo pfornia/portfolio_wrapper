@@ -5,36 +5,36 @@ output:
   pdf_document: default
 ---
 
-### MS Computer Science
+## MS Computer Science
 
 * Johns Hopkins University
 * Whiting School of Engineering
 * Completed Aug 2020
 
-### BS Applied Mathematics
+## BS Applied Mathematics
 
 * University of Colorado -- Boulder
 * College of Engineering and Applied Sciences
 * Completed May 2012
 
-### BA Economics -- Magna Cum Laude
+## BA Economics -- Magna Cum Laude
 
 * University of Colorado -- Boulder
 * College of Arts and Sciences
 * Completed May 2012
 
-### AWS Certified Cloud Practitioner
+## AWS Certified Cloud Practitioner
 
 * [Description](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 * [Credential](https://www.youracclaim.com/badges/32350702-5891-436d-a581-f5428aab3ad5/public_url)
 
-### Data Science Specialization
+## Data Science Specialization
 
 * Coursera
 * Johns Hopkins University
 * [Description and Credential](https://www.coursera.org/account/accomplishments/specialization/KH5MS3AGYLHT)
 
-### Machine Learning Specialization
+## Machine Learning Specialization
 
 * Coursera
 * University of Washington

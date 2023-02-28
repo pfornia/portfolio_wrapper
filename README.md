@@ -2,11 +2,11 @@
 
 Wrapper repo for my personal resume and portfolio site paulfornia.com
 
-WARNING: Updating this repo will not automatically update paulfornia.com.
+WARNING: Updating this repo (portfolio_wrapper) will not automatically update paulfornia.com.
 
 paulfornia.com is linked to https://github.com/pfornia/pfornia.github.io, which matches contents of the _site folder of this repo.
 
-To update the actul site:
+To update the actual site:
 
 1) Compile changes into the _site folder by running (in R):
 ```rmarkdown::render_site()```
