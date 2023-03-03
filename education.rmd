@@ -32,7 +32,7 @@ output:
 
 * Coursera
 * Johns Hopkins University
-* [Description and Credential](https://www.coursera.org/account/accomplishments/specialization/KH5MS3AGYLHT)
+* [Description and Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/KH5MS3AGYLHT)
 
 ## Machine Learning Specialization
 

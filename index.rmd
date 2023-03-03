@@ -11,14 +11,16 @@ header-includes:
   - \usepackage{blindtext}
 ---
 
-![](dogs_headshot.png)
-<br/><br/>
+```{r chunkname, echo=FALSE, out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("headshot.jpeg")
+```
+
 Paul Fornia is an experienced software engineer, consultant, and team leader specializing in applied machine learning. He has worked in many industries, including tech, finance, government, non-profit, and healthcare. He is currently at Meta working on machine learning systems for the Facebook app.
 
 In addition to a strong foundation in math and statistics, Paul has over a decade of programming experience in many languages (including expertise in Python and SQL).
 
 Paul graduated from the University of Colorado at Boulder with degrees in Applied Math and Economics Magna cum laude. He also holds a Masters degree in Computer Science from Johns Hopkins University. He lives with his wife and two dogs near Seattle, WA.
-<br/><br/>
+<br></br>
 [LinkedIn](https://www.linkedin.com/in/paulfornia/) |
 [Email](mailto:paulfornia@gmail.com) |
 [Resume](./Resume_Fornia_2022_07_15.pdf) |
