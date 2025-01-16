@@ -5,16 +5,24 @@ output:
   pdf_document: default
 ---
 
-## Meta (Facebook) | Software Engineer - ML (Sep 2021 - Present)
+## Meta (Facebook) | Senior Software Engineer - ML (Sep 2021 - Present)
 
-* Owner of large feature (100M+ daily impressions) that supports
-the FB group ecosystem by providing personalized
-recommendations of lesser-known groups
-* The feature increases the number of FB Groups with sustainable
-levels of engagement by hundreds of thousands (my contributions
-in 2022H1 increased this effect by 5%)
+Currently on the Facebook (FB) Marketplace Integrity anti-scam team
+
+* I create and maintain Spam Folder triaging methods that stops hundreds of thousands of inauthentic messages per day, preventing millions of dollars of scam against users each month 
+* Implemented a novel technique for identifying scammers whose claimed and actual location do not match. I incorporated the signal into multiple levers in Marketplace Integrity, with significant, demonstrated impact on scammer identification, and it is now being used by multiple teams across Meta.
+* I was the Engineering lead (supporting 6 engineers plus 10+ partners and stakeholders) for a short-term, intensive sprint where we successfully blocked the vast majority of seller scammers in one country as proof-of-concept of several experimental tools. We are now expanding many of these ideas into new markets or as full global launches.
+* In addition to helping guide the direction of several projects on our team, my individual contributions have led to tens of percent of measurable decrease in scam volume across Marketplace
+
+Was the owner of a large feature (100M+ daily impressions) that supported the FB group ecosystem by providing personalized recommendations of lesser-known groups
+
+* The feature increased the number of FB Groups with sustainable levels of engagement by hundreds of thousands (my contributions increased this effect by 5%)
 * Increased click rate by 10%
-* Decreased latency by tens of milliseconds
+
+Supported FB’s comment-writing assistant system
+
+* Improved filtering to increase system-wide coverage by 3%, resulting in millions of additional comments made daily
+* Integrated this ML infrastructure into FB’s Birthday Center
 
 ## FINRA | Data Scientist (Oct 2020 - Sep 2021)
 
