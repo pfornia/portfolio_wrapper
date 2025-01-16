@@ -14,3 +14,6 @@ To update the actual site:
 2) Copy (and replace) entire contents of _site/ folder into pfornia.github.io folder (which has origin of https://github.com/pfornia/pfornia.github.io). Don't delete other files from pfornia.github.io, it contains some files like CNAME, which are necessary, but not in this repo.
 
 3) Add, commit, and push that repo
+
+* when pushing, use username pfornia, and password is stored on my laptop file github_sandbox/github_token_paul.txt
+* If that doesn't work, can generate a new one: github -> settings -> developer settings -> personal access tokens -> Tokens (classic)
