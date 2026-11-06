@@ -5,6 +5,11 @@ output:
   pdf_document: default
 ---
 
+## Startup
+
+* [BATLR.ai](https://batlr.ai): Real-time scam detection API for P2P marketplaces and online communities, built from scratch as solo founder (2026)
+  * Topics: Python, LLMs, RAG, LangGraph, AWS
+
 ## Research Projects
 
 * [Machine Learnable Image Compression via "Alternating Transfer Learning"](https://github.com/pfornia/ml-compression) ([accompanying paper](https://github.com/pfornia/ml-compression/blob/master/paper/alternating_transfer_learning_FORNIA.pdf)). 
@@ -35,7 +40,7 @@ output:
 
 ## UI
 
-* ["Clue-less" Multiplayer Game](https://github.com/pfornia/battleware) ([video explainer](https://www.youtube.com/edit?o=U&video_id=zvuOLRJWVi0)): Python, GUI, OO
+* ["Clue-less" Multiplayer Game](https://github.com/pfornia/battleware) ([video explainer](https://www.youtube.com/watch?v=zvuOLRJWVi0)): Python, GUI, OO
 
 * [Kaggle Point Calculator](https://github.com/pfornia/kaggle_points_calculator) ([web app](https://paulfornia.shinyapps.io/Data_Products_Project_v2/)): R, Shiny
 

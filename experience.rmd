@@ -5,16 +5,31 @@ output:
   pdf_document: default
 ---
 
-## Meta (Facebook) | Senior Software Engineer - ML (Sep 2021 - Present)
+## Stripe | Staff Data Scientist, Security (Nov 2026 - Present)
 
-Currently on the Facebook (FB) Marketplace Integrity anti-scam team
+## BATLR.ai | Founder (2026)
 
-* I create and maintain Spam Folder triaging methods that stops hundreds of thousands of inauthentic messages per day, preventing millions of dollars of scam against users each month 
+* Built a real-time, AI-enabled scam detection API for P2P marketplaces and online communities. The B2B SaaS product included an LLM-based classifier with automated cost management and PII redaction, letting platforms add scam detection without an infrastructure overhaul
+* Designed and ran a rigorous benchmark showing the classifier achieved 2x the scam recall of a naive AI baseline
+* As solo founder, owned the full stack, product, market validation, pricing, and outreach
+
+## Meta (Facebook) | Senior Software Engineer - ML (Sep 2021 - May 2026)
+
+WhatsApp Business Integrity team: scam detection and mitigation
+
+* Led a cross-org emergency response, deploying system fixes that dramatically cut the prevalence of scam coming from Meta Verified accounts
+* Negotiated and implemented WhatsApp Meta Verified process logic that reduced friction for good users, driving significant revenue gains with no measurable increase in scam
+* Built an AI agent to support investigations into scam attacks from WhatsApp Business accounts, replacing or supplementing multi-day human SME review with instantaneous scam classifications for simple use cases
+
+Facebook Marketplace Integrity anti-scam team
+
+* Created Spam Folder triaging methods that stop hundreds of thousands of inauthentic messages per day, preventing millions of dollars of scam against users each month
+* Built a self-serve tool letting Ops partners write detection rules in SQL and see precision, recall, and impact estimates before shipping
 * Implemented a novel technique for identifying scammers whose claimed and actual location do not match. I incorporated the signal into multiple levers in Marketplace Integrity, with significant, demonstrated impact on scammer identification, and it is now being used by multiple teams across Meta.
-* I was the Engineering lead (supporting 6 engineers plus 10+ partners and stakeholders) for a short-term, intensive sprint where we successfully blocked the vast majority of seller scammers in one country as proof-of-concept of several experimental tools. We are now expanding many of these ideas into new markets or as full global launches.
-* In addition to helping guide the direction of several projects on our team, my individual contributions have led to tens of percent of measurable decrease in scam volume across Marketplace
+* I was the Engineering lead (supporting 6 engineers plus 10+ partners and stakeholders) for a short-term, intensive sprint where we successfully blocked the vast majority of seller scammers in one country as proof-of-concept of several experimental tools.
+* In addition to helping guide the direction of several projects on our team, my individual contributions led to tens of percent of measurable decrease in scam volume across Marketplace
 
-Was the owner of a large feature (100M+ daily impressions) that supported the FB group ecosystem by providing personalized recommendations of lesser-known groups
+Earlier at Meta, was the owner of a large feature (100M+ daily impressions) that supported the FB group ecosystem by providing personalized recommendations of lesser-known groups
 
 * The feature increased the number of FB Groups with sustainable levels of engagement by hundreds of thousands (my contributions increased this effect by 5%)
 * Increased click rate by 10%
@@ -50,14 +65,14 @@ machine learning
 
 ## Deloitte Consulting | Data Scientist/Senior Consultant (Aug 2014 - Aug 2019)
 
-* Paul of Deloitte Consulting's Strategy and Analytics Government and Public Sector (GPS) practice.
+* Paul was part of Deloitte Consulting's Strategy and Analytics Government and Public Sector (GPS) practice.
 
-#### Data Scientist, Team Lead | Large Business Issue Recommender | Large Dept of Treausury Agency
+#### Data Scientist, Team Lead | Large Business Issue Recommender | Large Dept of Treasury Agency
 
 * Led a team (4 full-time Data Scientists plus 2 part-time senior advisors) that used a recommendation engine approach to perform unsupervised anomaly detection for a large Dept of Treasury Agency
 * Paul stood up the project, turning a small code base into an end-to-end data pipeline, complete with a backtesting methodology to benchmark their hundreds of experiments. 
 
-#### Data Scientist, Workstream Lead | Workforce Optimization Tool | Large Dept of Treausury Agency
+#### Data Scientist, Workstream Lead | Workforce Optimization Tool | Large Dept of Treasury Agency
 
 * Led a team of 3-4 full-time consultants in overhauling and improving a tool to guide workforce allocation responsible for several hundreds of millions in generated revenue
 * The tool provided a boost in efficiency worth an estimated tens of millions.
@@ -72,8 +87,8 @@ machine learning
 
 #### Training and Analytics Leadership
 
-* Over the years, Paul played several rolls internally at Deloitte around training new practitioners. 
-* Directly taught hundreds of students internally, dozen externally (to paying clients), and his courses have reached even more. He created several courses in R and SQL, and helped facilitate several others
+* Over the years, Paul played several roles internally at Deloitte around training new practitioners. 
+* Directly taught hundreds of students internally, dozens externally (to paying clients), and his courses have reached even more. He created several courses in R and SQL, and helped facilitate several others
 * Advised curriculum development as Deloitte stood up its internal "Analytics University" for GPS practitioners.
 
 ## Sr Research Assistant | Federal Reserve Board of Governors (Jun 2012 - Jul 2014)

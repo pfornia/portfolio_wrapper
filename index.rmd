@@ -15,13 +15,13 @@ header-includes:
 knitr::include_graphics("headshot.jpeg")
 ```
 
-Paul Fornia is an experienced software engineer, consultant, and team leader specializing in applied machine learning. He has worked in many industries, including tech, finance, government, non-profit, and healthcare. He is currently at Meta working on machine learning systems for the Facebook app.
+Paul Fornia is a Staff Data Scientist on the Security team at Stripe. He has over a decade of experience in machine learning, AI, and data science, with deep expertise in scam and fraud detection. Before Stripe, he spent nearly five years at Meta building anti-scam systems for WhatsApp and Facebook Marketplace, then founded BATLR.ai, a startup building a scam detection API for online platforms. Earlier in his career he worked in consulting, finance, and government, including at Deloitte, DataRobot, FINRA, and the Federal Reserve Board.
 
-In addition to a strong foundation in math and statistics, Paul has over a decade of programming experience in many languages (including expertise in Python and SQL).
+Paul graduated from the University of Colorado Boulder with degrees in Applied Math and Economics, Magna cum laude. He also holds a Masters degree in Computer Science from Johns Hopkins University.
 
-Paul graduated from the University of Colorado at Boulder with degrees in Applied Math and Economics Magna cum laude. He also holds a Masters degree in Computer Science from Johns Hopkins University. He lives with his wife and two dogs near Seattle, WA.
+Paul lives in Denver, CO, where he enjoys skiing, hiking, and backpacking.
 <br></br>
 [LinkedIn](https://www.linkedin.com/in/paulfornia/) |
 [Email](mailto:paulfornia@gmail.com) |
-[Resume](./Resume_Fornia_2025_01_14.pdf) |
+[Resume](./Resume_Fornia_2026_08_04.pdf) |
 [Github](https://github.com/pfornia)
